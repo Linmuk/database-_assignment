@@ -25,7 +25,11 @@ A MySQL relational database design project for managing bookstore operations.
 
 | Name              | GitHub (if available)                      | Role                    |
 |-------------------|--------------------------------------------|-------------------------|
-| Lindah Mugambi    | _[lindahmukami796@gmail.com]_              |     |
+| Lindah Mugambi    | _[lindahmukami796@gmail.com]_              |     developer
 | Teresa Peter      | _[teresapeter14@gmail.com]_                |   |
 | Nehemiah Onyango        | [@onyango-nehemy](https://github.com/onyango-nehemy) | 👑 Team lead|
+
+
+
+
 
